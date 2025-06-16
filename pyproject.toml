@@ -1,0 +1,7 @@
+[project]
+name = "taccoform-python"
+version = "0.1.0"
+description = "some python code to drive terraform execution"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
